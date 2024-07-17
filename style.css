@@ -1,0 +1,40 @@
+.rasm{
+    width: 50%;
+    position: fixed;
+}
+.container{
+    width: 50%;
+    height: 1000px;
+    position: fixed;
+    margin-left: 1000px;
+    background-color: blue;
+    padding-left: 15px;
+}
+h1{
+    color: #fff;
+    padding-left: 50px;
+}
+input{
+    width: 500px;
+    display: block;
+    margin: 80px 0 80px 50px;
+    background-color: blue;
+    border: 0;
+    border-bottom: 1px solid #fff;
+}
+::placeholder{
+    color: #fff;
+}
+button{
+    width: 150px;
+    margin-left: 50px;
+    padding: 15px 20px 15px 20px;
+    background-color: indigo;
+    color: #fff;
+    border: 0;
+    border-radius: 10px;
+}
+a{
+    color: #fff;
+    margin-left: 30px;
+}
